@@ -114,6 +114,8 @@ crashlytics-build.properties
 # Created by .ignore support plugin (hsz.mobi)
 
 settings_local.py
+/settings.py
+/settings.yaml
 
 # Elastic Beanstalk Files
 .elasticbeanstalk/*
